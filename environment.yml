@@ -1,0 +1,10 @@
+name: data-viz
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9*
+  - pandas
+  - jupyterlab
+  - openpyxl
+  - sqlalchemy
+  - psycopg2

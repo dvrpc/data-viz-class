@@ -2,7 +2,7 @@ import pandas as pd
 from pathlib import Path
 from sqlalchemy import create_engine
 
-data_folder = Path(r"G:\Shared drives\Mobility Analysis and Design Resource Library\Data Analysis & Viz Class\data")
+data_folder = Path(r"G:\Shared drives\Planning Technology Training\Data Analysis & Viz Class\data")
 
 
 def clean_up_column_names(df: pd.DataFrame) -> pd.DataFrame:

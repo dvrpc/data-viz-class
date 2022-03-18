@@ -19,6 +19,8 @@ This repo contains Python scripts and SQL queries that are used in the "Applied 
 
 [DVRPC employees can access all files related to this course on GoogleDrive](https://drive.google.com/drive/folders/1AXb63VM86_tGUSMjDmcSJlTRUWtsKUTA?usp=sharing).
 
+[Slides can be found here](https://docs.google.com/presentation/d/1tsbYez5qUyJIHRr7lnuDRVZKmTzcwXmxT_2JEUAz3Cs/edit?usp=sharing).
+
 ### Create your database
 
 - Open up `DBeaver` from your start menu
